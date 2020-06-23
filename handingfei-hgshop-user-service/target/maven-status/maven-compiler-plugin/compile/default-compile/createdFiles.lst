@@ -1,0 +1,3 @@
+com\handingfei\hgshop\BootStart.class
+com\handingfei\hgshop\dao\UserDao.class
+com\handingfei\hgshop\service\impl\UserServiceImpl.class

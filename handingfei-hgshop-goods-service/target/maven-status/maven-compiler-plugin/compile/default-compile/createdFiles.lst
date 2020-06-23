@@ -1,0 +1,11 @@
+com\handingfei\hgshop\dao\SkuDao.class
+com\handingfei\hgshop\dao\BrandDao.class
+com\handingfei\hgshop\service\impl\SkuServiceImpl.class
+com\handingfei\hgshop\dao\CategoryDao.class
+com\handingfei\hgshop\dao\SpecDao.class
+com\handingfei\hgshop\service\impl\CategoryServiceImpl.class
+com\handingfei\hgshop\service\impl\SpecServiceImpl.class
+com\handingfei\hgshop\service\impl\SpuServiceImpl.class
+com\handingfei\hgshop\BootStart.class
+com\handingfei\hgshop\dao\SpuDao.class
+com\handingfei\hgshop\service\impl\BrandServiceImpl.class

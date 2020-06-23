@@ -1,0 +1,13 @@
+com\handingfei\hgshop\domain\Sku.class
+com\handingfei\hgshop\domain\Category.class
+com\handingfei\hgshop\service\BrandService.class
+com\handingfei\hgshop\domain\SpuVo.class
+com\handingfei\hgshop\service\SpuService.class
+com\handingfei\hgshop\service\CategoryService.class
+com\handingfei\hgshop\domain\Spu.class
+com\handingfei\hgshop\service\SkuService.class
+com\handingfei\hgshop\service\SpecService.class
+com\handingfei\hgshop\domain\SkuVo.class
+com\handingfei\hgshop\domain\SpecOption.class
+com\handingfei\hgshop\domain\Spec.class
+com\handingfei\hgshop\domain\Brand.class

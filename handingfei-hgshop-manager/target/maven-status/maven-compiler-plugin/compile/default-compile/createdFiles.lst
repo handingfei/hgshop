@@ -1,0 +1,7 @@
+com\handingfei\hgshop\controller\SkuController.class
+com\handingfei\hgshop\controller\SpuController.class
+com\handingfei\hgshop\controller\BrandController.class
+com\handingfei\hgshop\controller\IndexController.class
+com\handingfei\hgshop\controller\CategoryController.class
+com\handingfei\hgshop\controller\FileUpload.class
+com\handingfei\hgshop\controller\SpecController.class
